@@ -1,0 +1,4 @@
+Start Delay: Quanto tempo vai levar para começar a jogar as particulas.
+Start LifeTime: Tempo de vida das particulas.
+Start Speed: Velocidade das particulas.
+Start Size: Tamanho das particulas.
